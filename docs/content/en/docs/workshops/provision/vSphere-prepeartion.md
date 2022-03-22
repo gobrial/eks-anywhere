@@ -6,6 +6,7 @@ date: 2021-11-11
 description: >  
 ---
 
+{{< content "../../reference/vsphere/vsphere-preparation.md" >}}
+
 {{< content "../../reference/vsphere/vsphere-prereq.md" >}}
 
-{{< content "../../reference/vsphere/vsphere-preparation.md" >}}
